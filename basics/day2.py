@@ -1,4 +1,4 @@
-# Day 2 - Variables, Data Types & Input
+# Variables, Data Types & Input
 
 # Variables
 name = "Jitendra"
